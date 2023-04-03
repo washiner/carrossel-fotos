@@ -5,19 +5,19 @@
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
-![semaforo](https://user-images.githubusercontent.com/50848988/229267106-dc926e94-4532-48fe-b5de-9edf0223b4fa.gif)
+![carrossel-fotos](https://user-images.githubusercontent.com/50848988/229568895-7b2762fd-8231-4788-b310-0b147a948469.gif)
 
 
 
 <p align="center"> Para visualizar o projeto no seu navegador:
-  <a href="https://projeto-semaforo.netlify.app/" target="_blank">Click Aqui<a/>
+  <a href="https://carrossel-fotos.netlify.app/" target="_blank"> Click Aqui <a/>
 </p>
 
 <br>
 
 ## 🚀 Tecnologias
 
-Esse projeto foi desenvolvido com HTML e CSS principalmente JavaScrip@t:
+Esse projeto foi desenvolvido com HTML e CSS principalmente em JavaScrip@t:
 
 - HTML
 - CSS
@@ -26,6 +26,7 @@ Esse projeto foi desenvolvido com HTML e CSS principalmente JavaScrip@t:
 
 ## 💻 Projeto
 
-Neste projeto foi usado a função appendChild() que insere um elemento filho (children) ao elemento pai (parent) na última posiçãoe tambem 
-loops com forEach entre outras.
+Neste projeto foi usado a função appendChild() que insere um elemento filho (children) ao elemento pai (parent) na última posiçãoe tambem,
+loops com forEach. Lemnrando que este projeto é um ótimo desafio para manipulação da DOM com as estruturas das funções usando uma estreutura
+simples e de fácil entendimento.
 
