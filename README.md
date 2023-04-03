@@ -26,7 +26,7 @@ Esse projeto foi desenvolvido com HTML e CSS principalmente em JavaScrip@t:
 
 ## 💻 Projeto
 
-Neste projeto foi usado a função appendChild() que insere um elemento filho (children) ao elemento pai (parent) na última posiçãoe tambem,
+Neste projeto foi usado a função appendChild() que insere um elemento filho (children) ao elemento pai (parent) na última posição e também,
 loops com forEach. Lemnrando que este projeto é um ótimo desafio para manipulação da DOM com as estruturas das funções usando uma estreutura
 simples e de fácil entendimento.
 
